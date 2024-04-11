@@ -22,5 +22,8 @@
 8. The final result will be displayed in a window, and the image with the contour drawn on it will be saved at the following path: ___Results/Active_Contour___ within the script's running directory. The file itself will be named according to the input file but with ____contour_result.png___ appended to the original file name.
 
 # Task 3: Interest points
-
+* The notebook containing my solution to this task is: ___Interest_Points_Notebook.ipynb___
+* I photographed the entrance of the ADA campus from 2 angles ('First_Frame.png', 'Second_Frame.png'); they are stored at ___Original_Images/ORB_Images___
+* I have employed the ORB algorithm setting its number of features to 1000 and used the Flann interest point matcher.
+* Pip dependencies: ___pip install numpy matplotlib opencv-python___
 
