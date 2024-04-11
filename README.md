@@ -19,7 +19,7 @@
 5. Release the mouse button to finish drawing.
 6. If you need to redraw the contour, press __R__ to reset the image to its original state.
 7. Press the __Space Bar__ when you are done drawing the initial contour. The script will then process the image using the active contour algorithm, showing the contour adjustments gradually.
-8. The final result will be displayed in a window, and the image with the contour drawn on it will be saved at the follwing path ___Results/Active_Contour___ within the script's running directory. The file itself will be named according to the input file but with ____contour_result.png___ appended to the original file name.
+8. The final result will be displayed in a window, and the image with the contour drawn on it will be saved at the following path: ___Results/Active_Contour___ within the script's running directory. The file itself will be named according to the input file but with ____contour_result.png___ appended to the original file name.
 
 # Task 3: Interest points
 
